@@ -34,26 +34,26 @@ benim-projem'i npm kullanarak yükleyin
   
 ## Ekran Görüntüleri
 onboarding screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZo8ko.png)
+![Uygulama Ekran Görüntüsü](/images/onboarding.png)
 
 login screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZot1H.png)
+![Uygulama Ekran Görüntüsü](/images/login.png)
 
 
 product screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZoZu1.png)
+![Uygulama Ekran Görüntüsü](/images/product.png)
 
 details screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZo4Mf.png)
+![Uygulama Ekran Görüntüsü](/images/details.png)
 
 
 
 profile screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZobpI.png)
+![Uygulama Ekran Görüntüsü](/images/profile.png)
 
 
 checkout screen
-![Uygulama Ekran Görüntüsü](https://img.imgyukle.com/2024/04/13/yZo9JG.png)
+![Uygulama Ekran Görüntüsü](/images/checkout.png)
 
 
 
