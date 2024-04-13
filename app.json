@@ -1,4 +1,11 @@
 {
-  "name": "tasking",
-  "displayName": "tasking"
+  "expo": {
+    "name": "tasking",
+    "slug": "tasking",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "tasking"
 }
